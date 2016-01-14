@@ -9,3 +9,33 @@ ul
 {
     list-style-type: none;
 }
+.leftFloat {
+  float: left;
+}
+ .rightFloat {
+   float: right;
+ }
+
+#css-background {
+  background-color: #ffff00;
+}
+
+#css-font-family {
+  font-family: fantasy;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+#snakes, #insects, #turtles {
+  display: none;
+}
