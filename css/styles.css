@@ -39,3 +39,7 @@ ul
 #snakes, #insects, #turtles {
   display: none;
 }
+
+#story{
+  display: none;
+}
